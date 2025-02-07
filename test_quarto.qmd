@@ -1,7 +1,7 @@
 ---
 title: "test_quarto"
 author: "Aiden"
-format: html
+format: gfm
 editor: visual
 ---
 
